@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purewhite">#FFFFFFFF</color>
+    <color name="placeholder">#FFC3BEB7</color>
+    <color name="forminput">#FFE6E7E9</color>
+    <color name="background">#FFE6E7E9</color>
+    <color name="lightgreen">#FF015351</color>
+    <color name="darkgreen">#FF004240</color>
+    <color name="gold">#FFBC9560</color>
+    <color name="graytogold">#FF9D978E</color>
+    <color name="darkgold">#FF704100</color>
+    <color name="backbutton">#FF92ABAA</color>
+    <color name="dropdown">#FFF0EDE8</color>
+    <color name="appnav">#FFF6F6F6</color>
+    <color name="bgdetail">#FFD9D9D9</color>
+    <color name="searchbg">#FFB69A73</color>
+</resources>
